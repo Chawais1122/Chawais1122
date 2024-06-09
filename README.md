@@ -18,12 +18,11 @@
 
 ## Technologies
 
-<div style="padding-left: 30px;">
+#### 🏗️ Frameworks/Tools:
 
-#### Frameworks/Tools:
-
-</div>
-
+[![Frameworks/Tools](https://skillicons.dev/icons?i=react,nodejs,aws,docker,express,git,postgresql,mongodb,mysql,azure,firebase,django,dynamodb,figma)](#)
 <br/>
 
-#### Languages:
+#### 💻 Languages:
+
+[![Languages](https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css,scss)](#)
