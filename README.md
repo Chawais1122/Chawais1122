@@ -18,7 +18,7 @@
 
 ## Technologies
 
-<div style="margin-left: 30px;">
+<div style="padding-left: 30px;">
 
 #### Frameworks/Tools:
 
