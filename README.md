@@ -33,11 +33,9 @@
 
 ## How to Reach Me
 
-<div style="display: flex; align-items: center;">
-    <a href="mailto:Chaudharyawais.pk@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40">
-    </a>
-    <a href="https://www.linkedin.com/in/muhammadawaischaudhary" style="margin-left: 20px;" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40" height="40">
-    </a>
-</div>
+<p align="left">
+    <a href="https://www.linkedin.com/in/muhammadawaischaudhary" target="_blank"><img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <a href="mailto:Chaudharyawais.pk@gmail.com" target="_blank"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail"></a>
+    &nbsp;&nbsp;
+</p>
