@@ -35,4 +35,4 @@
 
 [<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40">](mailto:Chaudharyawais.pk@gmail.com)
 
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40" height="40">](https://www.linkedin.com/in/muhammadawaischaudhary)
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40" height="40">](mailto:https://www.linkedin.com/in/muhammadawaischaudhary)
