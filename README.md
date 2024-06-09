@@ -16,6 +16,10 @@
    Seeking a challenging role to leverage my broad development background and hands-on technical expertise as a Full Stack Developer.
 </p>
 
-<h1>Skills</h1>
-
 ## Technologies:
+
+### Frameworks/Tools:
+
+<br/>
+
+### Languages:
