@@ -22,13 +22,13 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="text-align: center; margin: 10px; width: 80px;">
+    
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" /><br>Node.js
-  </div>
-  <div style="text-align: center; margin: 10px; width: 80px;">
+
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" /><br>React
-  </div>
-  <div style="text-align: center; margin: 10px; width: 80px;">
+
     <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" /><br>Express
+
   </div>
   <div style="text-align: center; margin: 10px; width: 80px;">
     <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" /><br>PostgreSQL
