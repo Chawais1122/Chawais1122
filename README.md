@@ -21,15 +21,17 @@
 #### 🏗️ Frameworks/Tools:
 
 <p align="left">
-  <span>
+  
+   <div>
    <img src="https://img.icons8.com/color/480/000000/nestjs.png" alt="nest.js" width="40" height="40" />
    <span className="skill-label">Nest.js</span>
-   </span>
+   </div>
 
-  <span>
+  <div>
   <img src="https://img.icons8.com/color/480/000000/docker.png" alt="docker" width="40" height="40" />
   <span className="skill-label">Docker</span>
-  </span>
+  </div>
+  
   <span><img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="mongodb" width="40" height="40" /></span>
   <span><img src="https://img.icons8.com/color/480/000000/react-native.png" alt="react" width="40" height="40" /></span>
   <span><img src="https://img.icons8.com/color/480/000000/nodejs.png" alt="nodejs" width="40" height="40" /></span>
