@@ -26,3 +26,7 @@
 #### 💻 Languages:
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,scss)](#)
+
+## Projects
+
+<img src="https://img.icons8.com/color/480/000000/nestjs.png" alt="nest.js" width="40" height="40" />
