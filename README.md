@@ -33,4 +33,4 @@
 
 ## How to Reach Me
 
-<img href="mailto:Chaudharyawais.pk@gmail.com" src="https://skillicons.dev/icons?i=gmail" alt="nest.js" width="40" height="40" />
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40">](mailto:Chaudharyawais.pk@gmail.com)
