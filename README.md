@@ -21,15 +21,16 @@
 #### 🏗️ Frameworks/Tools:
 
 <p align="left">
-  <span style="display: inline-block; text-align: center; margin: 10px;">
     <span style="display: inline-block; text-align: center; width: 60px;">
     <img src="https://img.icons8.com/color/480/000000/nestjs.png" alt="nest.js" width="40" height="40" />
     <span style="display: block;">Nest.js</span>
-  </span>
+    </span>
+
   <span style="display: inline-block; text-align: center; width: 60px;">
     <img src="https://img.icons8.com/color/480/000000/nestjs.png" alt="nest.js" width="40" height="40" />
     <span style="display: block;">Nest.js</span>
   </span>
+
   <span style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="mongodb" width="40" height="40" />
     <span style="display: block; margin-top: 5px;">MongoDB</span>
