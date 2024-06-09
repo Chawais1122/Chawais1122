@@ -38,6 +38,6 @@
    &nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/muhammadawaischaudhary" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
    &nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send/?phone=%2B923340747390&text=Hello+Awais" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=whatsapp"></a>
+   <a href="https://api.whatsapp.com/send/?phone=%2B923340747390&text=Hello+Awais" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://e7.pngegg.com/pngimages/1006/83/png-clipart-whatsapp-computer-icons-android-whatsapp-cdr-logo.png"></a>
    &nbsp;&nbsp;
 </p>
