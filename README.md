@@ -8,7 +8,7 @@
 
 <br/>
 
-## About Me:
+## About Me
 
 <p>
    I'm a full stack developer with almost 2.5 years of experience crafting high-quality applications. Proven ability to design, develop, and implement solutions using diverse technologies (React, Node.js, PostgreSQL, MongoDB, AWS) and languages.
@@ -16,9 +16,13 @@
    Seeking a challenging role to leverage my broad development background and hands-on technical expertise as a Full Stack Developer.
 </p>
 
-## Technologies:
+## Technologies
+
+<div style="margin-left: 10;">
 
 #### Frameworks/Tools:
+
+</div>
 
 <br/>
 
