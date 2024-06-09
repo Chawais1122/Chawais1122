@@ -18,8 +18,8 @@
 
 ## Technologies:
 
-### Frameworks/Tools:
+#### Frameworks/Tools:
 
 <br/>
 
-### Languages:
+#### Languages:
