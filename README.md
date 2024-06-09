@@ -20,9 +20,9 @@
 
 #### 🏗️ Frameworks/Tools:
 
-[![Frameworks/Tools](https://skillicons.dev/icons?i=react,nodejs,aws,docker,express,git,postgresql,mongodb,mysql,azure,firebase,django,dynamodb,figma)](#)
+[![Frameworks/Tools](https://skillicons.dev/icons?i=nodejs,react,express,postgresql,mongodb,firebase,nestjs,graphql,rabbitmq,redis,redux,heroku,aws,docker,git,gitlab,bitbucket,postman,ubuntu)](#)
 <br/>
 
 #### 💻 Languages:
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css,scss)](#)
+[![Languages](https://skillicons.dev/icons?i=js,ts,cpp,html,css,scss)](#)
