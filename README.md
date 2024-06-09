@@ -34,8 +34,10 @@
 ## How to Reach Me
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/muhammadawaischaudhary" target="_blank"><img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
-    &nbsp;&nbsp;
-    <a href="mailto:Chaudharyawais.pk@gmail.com" target="_blank"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail"></a>
-    &nbsp;&nbsp;
+   <a href="mailto:Chaudharyawais.pk@gmail.com" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail"></a>
+   &nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/muhammadawaischaudhary" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
+   &nbsp;&nbsp;
+   <a href="https://api.whatsapp.com/send/?phone=%2B923340747390&text=Hello+Awais" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=whatsapp"></a>
+   &nbsp;&nbsp;
 </p>
