@@ -20,98 +20,122 @@
 
 #### 🏗️ Frameworks/Tools:
 
-<p align="left">
-    <span style="display: inline-block; text-align: center; width: 60px;">
-    <img src="https://img.icons8.com/color/480/000000/nestjs.png" alt="nest.js" width="40" height="40" />
-    <span style="display: block;">Nest.js</span>
-    </span>
-
-  <span style="display: inline-block; text-align: center; width: 60px;">
-    <img src="https://img.icons8.com/color/480/000000/nestjs.png" alt="nest.js" width="40" height="40" />
-    <span style="display: block;">Nest.js</span>
-  </span>
-
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/mongodb.png" alt="mongodb" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">MongoDB</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/react-native.png" alt="react" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">React</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/nodejs.png" alt="nodejs" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">Node.js</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/javascript--v1.png" alt="javascript" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">JavaScript</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/redux.png" alt="redux" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">Redux</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/material-ui.png" alt="material-ui" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">Material-UI</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">TailwindCSS</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/npm.png" alt="npm" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">npm</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/git.png" alt="git" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">Git</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/material-outlined/384/000000/github.png" alt="github" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">GitHub</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/firebase.png" alt="firebase" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">Firebase</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/fluency/240/000000/python.png" alt="python" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">Python</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">C++</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/bootstrap.png" alt="bootstrap" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">Bootstrap</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/css3.png" alt="css3" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">CSS3</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/html-5--v2.png" alt="html" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">HTML5</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/adobe-illustrator--v1.png" alt="adobeillustrator" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">Adobe Illustrator</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/color/480/000000/figma--v1.png" alt="figma" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">Figma</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/dusk/480/000000/php-logo.png" alt="php" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">PHP</span>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://img.icons8.com/fluency/480/000000/mysql-logo.png" alt="mysql" width="40" height="40" />
-    <span style="display: block; margin-top: 5px;">MySQL</span>
-  </span>
-</p>
+<div className="hard-skills" style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.8rem;">
+  <div className="hability" style="display: inline-block; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={nodeIcon} alt="Node" />
+      <span className="skill-label">Node.js</span>
+    </div>
+  </div>
+  <div className="hability" style="display: inline-block; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={expressIcon} alt="Expressjs" />
+      <span className="skill-label">Express.js</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={reactIcon} alt="React" />
+      <span className="skill-label">React.js</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={mongodbIcon} alt="Mongodb" />
+      <span className="skill-label">Mongodb</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={postgreIcon} alt="PostgreSQL" />
+      <span className="skill-label">PostgreSQL</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={prismaIcon} alt="Prisma" />
+      <span className="skill-label">Prisma</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={nestIcon} alt="Nest" />
+      <span className="skill-label">Nest.js</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={MicroSerIcon} alt="MicroService" />
+      <span className="skill-label">MicroService</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={kafkaIcon} alt="Kafka" />
+      <span className="skill-label">Kafka</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={redisIcon} alt="Redis" />
+      <span className="skill-label">Redis</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={graphIcon} alt="GraphQL" />
+      <span className="skill-label">GraphQL</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={webHookIcon} alt="Webhook" />
+      <span className="skill-label">Webhook</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={herokuIcon} alt="Heroku" />
+      <span className="skill-label">Heroku</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={awsIcon} alt="AWS" />
+      <span className="skill-label">AWS</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={dockerIcon} alt="Docker" />
+      <span className="skill-label">Docker</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={htmlIcon} alt="Html" />
+      <span className="skill-label">Html</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={cssIcon} alt="Css" />
+      <span className="skill-label">CSS</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={jsIcon} alt="JavaScript" />
+      <span className="skill-label">JavaScript</span>
+    </div>
+  </div>
+  <div className="hability" style="display: flex; flex-direction: column; align-items: center;">
+    <div className="skill-wrapper" style="display: flex; flex-direction: column; align-items: center;">
+      <img style="width: 3.4rem;" src={typescriptIcon} alt="TypeScript" />
+      <span className="skill-label">TypeScript</span>
+    </div>
+  </div>
+</div>
 
 #### 💻 Languages:
 
