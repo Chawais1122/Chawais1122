@@ -22,61 +22,61 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br>Node.js
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />Node.js
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" /><br>React
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />React
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" /><br>Express
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" />Express
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" /><br>PostgreSQL
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />PostgreSQL
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br>MongoDB
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />MongoDB
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /><br>Firebase
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />Firebase
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /><br>NestJS
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />NestJS
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /><br>GraphQL
+    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />GraphQL
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" /><br>RabbitMQ
+    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" />RabbitMQ
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" /><br>Redis
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />Redis
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" /><br>Redux
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />Redux
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /><br>Heroku
+    <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" />Heroku
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" /><br>AWS
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />AWS
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /><br>Docker
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />Docker
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br>Git
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />Git
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br>GitLab
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />GitLab
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" /><br>Bitbucket
+    <img src="https://skillicons.dev/icons?i=bitbucket" alt="Bitbucket" />Bitbucket
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /><br>Postman
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />Postman
   </div>
   <div style="text-align: center; margin: 10px;">
-    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /><br>Ubuntu
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />Ubuntu
   </div>
 </div>
 
