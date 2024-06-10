@@ -31,6 +31,8 @@
 
 <br/>
 
+## 📈 GitHub Statistics
+
 <a href="#" target="_blank" rel="noreferrer"><img src="https://i.sstatic.net/3nRDF.jpg"></a>
 
 <br/>
