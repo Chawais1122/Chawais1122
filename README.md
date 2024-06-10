@@ -22,7 +22,7 @@
 
 #### 🏗️ Frameworks/Tools:
 
-[![Frameworks/Tools](https://skillicons.dev/icons?i=nodejs,react,express,postgresql,mongodb,firebase,nestjs,graphql,rabbitmq,redis,redux,heroku,aws,docker,git,gitlab,bitbucket,postman,ubuntu)](#)
+[![Frameworks/Tools](https://skillicons.dev/icons?i=nodejs,react,express,postgresql,mongodb,firebase,mysql,prisma,nestjs,kafka,graphql,rabbitmq,redis,redux,heroku,aws,docker,npm,git,gitlab,bitbucket,postman,ubuntu)](#)
 <br/>
 
 #### 💻 Languages:
