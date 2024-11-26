@@ -11,9 +11,11 @@
 ## About Me
 
 <p>
-   I'm a full stack developer with almost 3 years of experience crafting high-quality applications. Proven ability to design, develop, and implement solutions using diverse technologies (React, Node.js, PostgreSQL, MongoDB, AWS) and languages.
-   As a dynamic Full-Stack developer, I bring a blend of technical expertise, creative problem-solving skills, and a relentless drive for innovation to every project.
-   Seeking a challenging role to leverage my broad development background and hands-on technical expertise as a Full Stack Developer.
+   Experienced Full Stack Developer with 3 years of expertise in building scalable web applications. Proﬁcient in
+   modern technologies like React, Node.js, Express.js, PostgreSQL, MongoDB, and AWS, delivering high-quality
+   solutions with a focus on performance and reliability. Skilled in optimizing workﬂows, integrating APIs, and
+   writing clean, maintainable code to enhance user experiences and streamline development processes. Seeking to
+   leverage technical expertise and collaborative skills in a challenging role as a Full Stack Developer.
 </p>
 
 <br/>
@@ -33,7 +35,11 @@
 
 ## 📈 GitHub Statistics
 
-<a href="#" target="_blank" rel="noreferrer"><img src="https://i.sstatic.net/3nRDF.jpg"></a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chawais1122&show_icons=true&theme=tokyonight&cache_buster=1)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chawais1122&theme=tokyonight&cache_buster=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chawais1122&hide=html&layout=compact&langs_count=8&theme=tokyonight&cache_buster=1)
 
 <br/>
 
