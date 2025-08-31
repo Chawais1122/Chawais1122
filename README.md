@@ -11,7 +11,7 @@
 ## About Me
 
 <p>
-   Experienced Full Stack Developer with 3 years of expertise in building scalable web applications. Proﬁcient in
+   Experienced Full Stack Developer with 4 years of expertise in building scalable web applications. Proﬁcient in
    modern technologies like React, Node.js, Express.js, PostgreSQL, MongoDB, and AWS, delivering high-quality
    solutions with a focus on performance and reliability. Skilled in optimizing workﬂows, integrating APIs, and
    writing clean, maintainable code to enhance user experiences and streamline development processes. Seeking to
