@@ -1,4 +1,4 @@
-<img src="/assets/top-wave.svg"/>
+<img src="/top-wave.svg"/>
 
 <div align="center" style="height:150px;">
 
@@ -78,4 +78,4 @@ I am open to exploring new projects and opportunities. If you need a dedicated F
 
 </br>
 
-<img src="/assets/bottom-wave.svg"/>
+<img src="/bottom-wave.svg"/>
