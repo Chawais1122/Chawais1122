@@ -1,55 +1,81 @@
-<h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
+<img src="/assets/top-wave.svg"/>
 
-<div align="center">
+<div align="center" style="height:150px;">
 
-## Full Stack Developer | Senior Software Engineer
+   <img src="https://img.shields.io/badge/Hi%20👋%2C%20I'm%20Muhammad%20Awais-%237957d5.svg" alt="Hi 👋, I'm Muhammad Awais" width="200"/>
 
+   <p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7957d5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;5+Years+of+Professional+Experience;10%2B+Projects+Completed;Always+Seeking+to+Enhance+My+Skills" alt="Typing SVG" />
+   </p>
 </div>
 
-<br/>
-
-## About Me
+## 💻 Who I Am
 
 <p>
-   Experienced Full Stack Developer with 4 years of expertise in building scalable web applications. Proﬁcient in
-   modern technologies like React, Node.js, Express.js, PostgreSQL, MongoDB, and AWS, delivering high-quality
-   solutions with a focus on performance and reliability. Skilled in optimizing workﬂows, integrating APIs, and
-   writing clean, maintainable code to enhance user experiences and streamline development processes. Seeking to
-   leverage technical expertise and collaborative skills in a challenging role as a Full Stack Developer.
+I'm a dedicated <strong>Full Stack Developer</strong> with <strong>4+ years</strong> of extensive experience in building and optimizing web applications. My focus is on creating scalable and high-performance solutions using modern technologies such as <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I have a strong passion for problem-solving and am committed to writing clean, maintainable code, contributing to project success through innovative technical solutions.
+
+I excel in fast-paced environments and enjoy collaborating with cross-functional teams to design, develop, and deploy reliable systems that enhance user experiences and achieve business objectives.
+
 </p>
 
-<br/>
+---
 
-## Technologies
+## 🔧 Skills Overview
 
-#### 🏗️ Frameworks/Tools:
+### **Core Languages & Frameworks**
 
-[![Frameworks/Tools](https://skillicons.dev/icons?i=nodejs,react,express,postgresql,mongodb,firebase,mysql,prisma,nestjs,kafka,graphql,rabbitmq,redis,redux,heroku,aws,docker,npm,git,gitlab,bitbucket,postman,ubuntu)](#)
-<br/>
+- **JavaScript** | **TypeScript** | **React** | **Next.js** | **Node.js** | **Nest.js** | **Express**
+- **ORMs**: Prisma | Sequelize | Mongoose
+- **Databases**: PostgreSQL | MongoDB
+- **API Protocols**: RESTful APIs | GraphQL
 
-#### 💻 Languages:
+### **Infrastructure & Development Tools**
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,scss)](#)
+- **Cloud Platforms**: **AWS** | Docker | Heroku | Redis | RabbitMQ | Apache Kafka
+- **CI/CD Solutions**: GitHub Actions, Docker
+- **Project Management Tools**: Jira | ClickUp
 
-<br/>
+### **Web Security Technologies**
 
-## 📈 GitHub Statistics
+- **CORS** (Cross-Origin Resource Sharing)
+- **CSRF** (Cross-Site Request Forgery) Protection
+- **XSS** (Cross-Site Scripting) Prevention
+- **JWT** (JSON Web Tokens) for Authentication
+- **HTTPS** for Secure Communication
+- **Rate Limiting** to Mitigate DDoS Attacks
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chawais1122&show_icons=true&theme=tokyonight&cache_buster=1)
+### **Additional Expertise**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chawais1122&theme=tokyonight&cache_buster=1)
+- Microservices Architecture
+- User Authentication & Authorization (OAuth, JWT, SSO)
+- API Design & Integration (REST, WebSockets, GraphQL)
+- Payment Processing Solutions (PayPal, Stripe)
+- Webhooks, OpenAI Integration, Socket.IO
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chawais1122&hide=html&layout=compact&langs_count=8&theme=tokyonight&cache_buster=1)
+---
 
-<br/>
+## 🌟 My GitHub Contributions
 
-## How to Reach Me
+![Bilal Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chawais1122&show_icons=true&theme=buefy&cache_buster=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chawais1122&hide=html&layout=compact&langs_count=8&theme=buefy&cache_buster=1)
+
+---
+
+## 🤝 Collaboration Opportunities
+
+I am open to exploring new projects and opportunities. If you need a dedicated Full Stack Developer or wish to connect, please don't hesitate to reach out.
 
 <p align="left">
-   <a href="mailto:Chaudharyawais.pk@gmail.com" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail"></a>
-   &nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/muhammadawaischaudhary" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin"></a>
-   &nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send/?phone=%2B923340747390&text=Hello+Awais" target="_blank" rel="noreferrer"><img height="45" width="50" src="https://img.icons8.com/color/48/whatsapp--v1.png"></a>
+
+<a href="mailto:Chaudharyawais.pk@gmail.com" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammadawaischaudhary/" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"></a>
+&nbsp;&nbsp;
+   <a href="https://api.whatsapp.com/send/?phone=%2B923340747390&text=Hello+Awais" target="_blank" rel="noreferrer"><img height="45" width="50" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"></a>
    &nbsp;&nbsp;
 </p>
+
+</br>
+
+<img src="/assets/bottom-wave.svg"/>
