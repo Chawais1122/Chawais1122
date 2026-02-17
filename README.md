@@ -1,81 +1,130 @@
 <img src="/top-wave.svg"/>
 
-<div align="center" style="height:150px;">
+<div align="center" style="height:160px;">
 
-   <img src="https://img.shields.io/badge/Hi%20👋%2C%20I'm%20Muhammad%20Awais-%237957d5.svg" alt="Hi 👋, I'm Muhammad Awais" width="200"/>
-
-   <p>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7957d5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;4%2B+Years+Of+Professional+Experience;10%2B+Projects+Completed;Always+Seeking+To+Enhance+My+Skills" alt="Typing SVG" />
-   </p>
-</div>
-
-## 💻 Who I Am
+<img src="https://img.shields.io/badge/Hi%20👋%2C%20I'm%20Muhammad%20Awais-%237957d5.svg" alt="Hi 👋, I'm Muhammad Awais" width="260"/>
 
 <p>
-I'm a dedicated <strong>Full Stack Developer</strong> with <strong>4+ years</strong> of extensive experience in building and optimizing web applications. My focus is on creating scalable and high-performance solutions using modern technologies such as <strong>React</strong>, <strong>Node.js</strong>, <strong>PostgreSQL</strong>, and <strong>AWS</strong>. I have a strong passion for problem-solving and am committed to writing clean, maintainable code, contributing to project success through innovative technical solutions.
-
-I excel in fast-paced environments and enjoy collaborating with cross-functional teams to design, develop, and deploy reliable systems that enhance user experiences and achieve business objectives.
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7957d5&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;5%2B+Years+Building+Scalable+Systems;Full+Stack+%7C+Cloud+%7C+Microservices;Leading+High+Impact+Engineering+Solutions" alt="Typing SVG" />
 </p>
 
----
-
-## 🔧 Skills Overview
-
-### **Core Languages & Frameworks**
-
-- **JavaScript** | **TypeScript** | **React** | **Next.js** | **Node.js** | **Nest.js** | **Express**
-- **ORMs**: Prisma | Sequelize | Mongoose
-- **Databases**: PostgreSQL | MongoDB
-- **API Protocols**: RESTful APIs | GraphQL
-
-### **Infrastructure & Development Tools**
-
-- **Cloud Platforms**: **AWS** | Docker | Heroku | Redis | RabbitMQ | Apache Kafka
-- **CI/CD Solutions**: GitHub Actions, Docker
-- **Project Management Tools**: Jira | ClickUp
-
-### **Web Security Technologies**
-
-- **CORS** (Cross-Origin Resource Sharing)
-- **CSRF** (Cross-Site Request Forgery) Protection
-- **XSS** (Cross-Site Scripting) Prevention
-- **JWT** (JSON Web Tokens) for Authentication
-- **HTTPS** for Secure Communication
-- **Rate Limiting** to Mitigate DDoS Attacks
-
-### **Additional Expertise**
-
-- Microservices Architecture
-- User Authentication & Authorization (OAuth, JWT, SSO)
-- API Design & Integration (REST, WebSockets, GraphQL)
-- Payment Processing Solutions (PayPal, Stripe)
-- Webhooks, OpenAI Integration, Socket.IO
+</div>
 
 ---
 
-## 🌟 My GitHub Contributions
+# 🚀 About Me
 
-![Bilal Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chawais1122&show_icons=true&theme=buefy&cache_buster=1)
+I am a **Senior Software Engineer** with **5+ years of professional experience** architecting, developing, and scaling high-performance web applications for global clients.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chawais1122&hide=html&layout=compact&langs_count=8&theme=buefy&cache_buster=1)
+I specialize in building **secure, distributed, and production-grade systems** using modern technologies such as **React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, and AWS**.
+
+Over the years, I have:
+
+- Improved backend API performance by up to **60%**
+- Reduced infrastructure costs by **20%**
+- Delivered **15+ production-grade applications**
+- Achieved **99.9% system uptime** through monitoring and optimization
+
+Beyond development, I lead engineering initiatives, mentor developers, drive architectural decisions, and ensure scalable cloud-native deployments aligned with business objectives.
+
+I am passionate about solving complex engineering challenges, improving system reliability, and building software that delivers measurable business impact.
 
 ---
 
-## 🤝 Collaboration Opportunities
+# 🧠 Core Expertise
 
-I am open to exploring new projects and opportunities. If you need a dedicated Full Stack Developer or wish to connect, please don't hesitate to reach out.
+### 🏗️ Architecture & Backend Engineering
+- Scalable Microservices Architecture
+- RESTful API & GraphQL Design
+- Event-Driven Systems (RabbitMQ, Kafka)
+- Database Optimization & Indexing
+- Caching Strategies (Redis)
+- Secure Authentication (JWT, OAuth, SSO)
+- WebSockets & Real-Time Systems
+
+### ⚛️ Frontend Engineering
+- React.js | Next.js | TypeScript
+- Performance Optimization
+- State Management (Redux, Context API)
+- Responsive & Accessible UI Design
+- Tailwind CSS
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, RDS, CloudWatch)
+- Docker & Containerization
+- CI/CD Pipelines (GitHub Actions)
+- Infrastructure Optimization
+- Monitoring & Logging
+- Nginx & Deployment Strategies
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+`JavaScript` | `TypeScript`
+
+### Backend
+`Node.js` | `NestJS` | `Express.js` | `Prisma` | `Sequelize` | `Mongoose`
+
+### Frontend
+`React.js` | `Next.js` | `Redux` | `Tailwind CSS`
+
+### Databases
+`PostgreSQL` | `MongoDB`
+
+### Messaging & Realtime
+`RabbitMQ` | `Apache Kafka` | `Socket.IO`
+
+### Cloud & Infrastructure
+`AWS` | `Docker` | `Redis` | `Heroku` | `Nginx`
+
+### Payments & Integrations
+`Stripe` | `PayPal` | `Webhooks` | `OpenAI APIs`
+
+---
+
+# 🔐 Security & Best Practices
+
+- CORS & CSRF Protection
+- XSS Prevention
+- Secure API Design
+- Rate Limiting & DDoS Mitigation
+- HTTPS & Secure Communication
+- Code Reviews & Engineering Standards
+- Scalable Production Deployments
+
+---
+
+# 🤝 Let’s Connect
+
+I’m open to:
+
+- Senior Backend / Full Stack roles
+- Technical Leadership opportunities
+- Scalable SaaS & Cloud-based projects
+- Remote global collaboration
+
+If you’d like to collaborate or discuss opportunities, feel free to connect:
 
 <p align="left">
 
-<a href="mailto:Chaudharyawais.pk@gmail.com" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"></a>
+<a href="mailto:Chaudharyawais.pk@gmail.com" target="_blank">
+<img height="40" width="40" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000">
+</a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhammadawaischaudhary/" target="_blank" rel="noreferrer"><img height="40" width="40" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"></a>
+
+<a href="https://www.linkedin.com/in/muhammadawaischaudhary/" target="_blank">
+<img height="40" width="40" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000">
+</a>
 &nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send/?phone=%2B923340747390&text=Hello+Awais" target="_blank" rel="noreferrer"><img height="45" width="50" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000"></a>
-   &nbsp;&nbsp;
+
+<a href="https://api.whatsapp.com/send/?phone=%2B923340747390&text=Hello+Awais" target="_blank">
+<img height="45" width="50" src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000">
+</a>
+
 </p>
 
-</br>
+---
 
 <img src="/bottom-wave.svg"/>
