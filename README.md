@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Hi%20👋%2C%20I'm%20Muhammad%20Awais-%237957d5.svg" alt="Hi 👋, I'm Muhammad Awais" width="260"/>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7957d5&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;5%2B+Years+Building+Scalable+Systems;Full+Stack+%7C+Cloud+%7C+Microservices;Leading+High+Impact+Engineering+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7957d5&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;5+Years+Building+Scalable+Systems;Full+Stack+%7C+Cloud+%7C+Microservices;Leading+High+Impact+Engineering+Solutions" alt="Typing SVG" />
 </p>
 
 </div>
@@ -14,7 +14,7 @@
 
 # 🚀 About Me
 
-I am a **Senior Software Engineer** with **5+ years of professional experience** architecting, developing, and scaling high-performance web applications for global clients.
+I am a **Senior Software Engineer** with **5 years of professional experience** architecting, developing, and scaling high-performance web applications for global clients.
 
 I specialize in building **secure, distributed, and production-grade systems** using modern technologies such as **React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, and AWS**.
 
